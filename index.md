@@ -17,3 +17,7 @@ HTML Boilerplate
   </head>
 </html>
 ```
+
+- [ ] Learn the Basics of Github
+- [ ] Learn Git
+- [ ] Relearn Web Develppment
